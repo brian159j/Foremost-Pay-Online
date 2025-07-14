@@ -1,0 +1,8 @@
+{
+  "short_name": "ForemostPay",
+  "name": "Foremost Pay Online",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50"
+}
